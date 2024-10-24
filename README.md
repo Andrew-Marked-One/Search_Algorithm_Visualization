@@ -1,7 +1,7 @@
 ### Project #5
 **Timeline**: 2024.2.3 - 2024.2.22
 
-This is a small project to visualize search algorithms, such as:
+This project visualizes search algorithms, such as:
 - **Breadth-First Search** (BFS)
 - **Depth-First Search** (DFS)
 - **Uniform-Cost Search** (UCS)
